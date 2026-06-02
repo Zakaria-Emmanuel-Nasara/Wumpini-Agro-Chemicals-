@@ -1,10 +1,10 @@
-# Wumpini Agro Chemicals - Official Website
+# Youth in Engineering (GhIE-YE) - Official Website
 
-A professional, modern, and responsive website for **Wumpini Agro Chemicals**, a leading distributor of premium agricultural chemicals and seeds in Tamale, Northern Ghana.
+A professional, modern, and responsive website for **Youth in Engineering (GhIE-YE)**, a wing of the Ghana Institution of Engineering (GhIE) dedicated to empowering young engineering professionals in Ghana.
 
 ## Overview
 
-Wumpini Agro Chemicals has been serving farmers in Northern Ghana since 2002, providing high-quality agricultural products and expert agronomic guidance. This website serves as the digital presence for the company, showcasing their products and services to farmers and agricultural professionals.
+Youth in Engineering (GhIE-YE) involves young engineering practitioners, engineering craftsmen, engineering technicians, and engineering students between the ages of 18 to 35 years. This website serves as the digital presence for the organization, showcasing their activities, mission, and mentorship programs.
 
 ## Features
 
@@ -14,35 +14,33 @@ Wumpini Agro Chemicals has been serving farmers in Northern Ghana since 2002, pr
 - Hamburger menu for mobile devices
 
 ### 2. **Navigation**
-- Sticky navigation bar with smooth scroll effects
-- Quick links to Home, About, Products, and Contact sections
+- Sticky navigation bar with scroll detection
+- Quick links to Home, About Us, Activities, and Contact sections
 - Smooth scrolling between sections
 
 ### 3. **Hero Section**
-- Eye-catching hero banner with professional agricultural imagery
+- Eye-catching hero banner with professional engineering imagery
 - Clear call-to-action buttons
-- Engaging headline and subtitle
+- Engaging headline: "Empowering the Next Generation of Engineers"
 
 ### 4. **About Section**
-- Four key value propositions highlighting company strengths
-- Quality Products, Expert Support, Trusted Partner, and Proven Results
+- Four key value propositions highlighting the organization's focus
+- Who We Are, Our Mission, Innovation, and Career Growth
 - Professional card-based layout with hover effects
 
-### 5. **Products Section**
-- Featured product showcase (3 main products)
-- High-quality product images
-- Detailed product descriptions
-- Product features and benefits
-- Call-to-action buttons for inquiries
+### 5. **Activities Section**
+- Featured activity showcase (Mentorship, Engagement Series, Professional Development)
+- High-quality imagery representing engineering fields
+- Detailed activity descriptions and features
+- Call-to-action buttons for joining sessions
 
 ### 6. **Contact Section**
-- Multiple contact methods (phone, email, physical address)
+- Multiple contact methods (Headquarters, LinkedIn, Email, Website)
 - Professional contact form
-- Social media links
-- Easy-to-use inquiry system
+- Social media links (LinkedIn, Facebook, Twitter)
 
 ### 7. **Footer**
-- Company information
+- Organization information
 - Quick navigation links
 - Social media integration
 - Copyright information
@@ -57,7 +55,7 @@ Wumpini Agro Chemicals has been serving farmers in Northern Ghana since 2002, pr
 ## Project Structure
 
 ```
-wumpini-agro-chemicals/
+ghie-ye-website/
 ├── index.html           # Main HTML file
 ├── css/
 │   └── style.css       # Main stylesheet
@@ -65,36 +63,12 @@ wumpini-agro-chemicals/
 │   └── script.js       # JavaScript functionality
 ├── images/
 │   ├── hero.jpg        # Hero section background
-│   ├── fertilizer.jpg  # Product image
-│   ├── pesticide.jpg   # Product image
-│   └── seeds.jpg       # Product image
+│   ├── ghie-ye-logo.png # Official Logo
+│   ├── fertilizer.jpg  # Activity image
+│   ├── pesticide.jpg   # Activity image
+│   └── seeds.jpg       # Activity image
 └── README.md           # This file
 ```
-
-## Features Implemented
-
-### Navigation
-- Fixed sticky navbar with scroll detection
-- Mobile hamburger menu
-- Smooth navigation links
-- Active state indicators
-
-### Animations
-- Fade-in animations on scroll
-- Hover effects on cards and buttons
-- Smooth transitions throughout
-- Image zoom effects on hover
-
-### Responsive Breakpoints
-- Desktop: Full layout
-- Tablet (768px): Adjusted grid layouts
-- Mobile (480px): Single column layouts, optimized touch targets
-
-### Performance
-- Optimized images
-- Minimal CSS and JavaScript
-- Fast loading times
-- Clean, maintainable code
 
 ## Browser Support
 
@@ -115,56 +89,19 @@ wumpini-agro-chemicals/
 1. Connect your GitHub repository to Vercel
 2. Vercel will automatically detect the project
 3. Deploy with a single click
-4. Your site will be live at a Vercel URL
-
-### Deployment on GitHub Pages
-1. Push the repository to GitHub
-2. Enable GitHub Pages in repository settings
-3. Select the main branch as the source
-4. Your site will be available at `https://username.github.io/repo-name`
 
 ## Contact Information
 
-**Wumpini Agro Chemicals**
-- **Location**: Tamale, Northern Region, Ghana
-- **Phone**: +233 244 290 265 / +233 246 128 704
-- **Email**: wumpini.agro@yahoo.com
-- **P.O. Box**: 381, Tamale
-
-## Future Enhancements
-
-Potential features for Phase 2:
-- Full product catalog with filtering
-- Online ordering system
-- WhatsApp integration for quick orders
-- Customer testimonials and reviews
-- Blog section for agronomic tips
-- Admin dashboard for content management
-- Payment gateway integration
-- Delivery tracking system
-- Dark/Light mode toggle
-- Advanced SEO optimization
-
-## Code Quality
-
-- Clean, well-commented code
-- Semantic HTML structure
-- CSS organized with logical sections
-- JavaScript following best practices
-- No console errors
-- Optimized performance
-- Accessibility considerations
+**Youth in Engineering (GhIE-YE)**
+- **Headquarters**: Engineers Centre, Roman Ridge, Accra, Ghana
+- **LinkedIn**: [Youth in Engineering (GhIE-YE)](https://www.linkedin.com/company/yeghie)
+- **Email**: ghie-ye@ghie.org.gh
+- **Website**: [ghie.org.gh](https://ghie.org.gh)
 
 ## License
 
-© 2024 Wumpini Agro Chemicals. All rights reserved.
-
-## Support
-
-For questions or issues, please contact:
-- Email: wumpini.agro@yahoo.com
-- Phone: +233 244 290 265
+© 2026 Youth in Engineering (GhIE-YE). All rights reserved.
 
 ---
 
-**Built with ❤️ for Wumpini Agro Chemicals**
+**Built with ❤️ for Youth in Engineering (GhIE-YE)**
