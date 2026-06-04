@@ -1,10 +1,10 @@
-# Youth in Engineering (GhIE-YE) - Official Website
+# WAFEO-YEP - Young Engineers Program - Official Website
 
-A professional, modern, and responsive website for **Youth in Engineering (GhIE-YE)**, a wing of the Ghana Institution of Engineering (GhIE) dedicated to empowering young engineering professionals in Ghana.
+A professional, modern, and responsive website for **WAFEO-YEP (Young Engineers Program)**, the youth wing of the West African Federation of Engineering Organisations (WAFEO) dedicated to empowering young engineering professionals across West Africa.
 
 ## Overview
 
-Youth in Engineering (GhIE-YE) involves young engineering practitioners, engineering craftsmen, engineering technicians, and engineering students between the ages of 18 to 35 years. This website serves as the digital presence for the organization, showcasing their activities, mission, and mentorship programs.
+WAFEO-YEP comprises young engineering practitioners, engineering craftsmen, engineering technicians, and engineering students between the ages of 18 to 35 years. This website serves as the digital presence for the organization, showcasing their activities, mission, and mentorship programs across West Africa.
 
 ## Features
 
@@ -55,7 +55,7 @@ Youth in Engineering (GhIE-YE) involves young engineering practitioners, enginee
 ## Project Structure
 
 ```
-ghie-ye-website/
+wafeo-yep-website/
 ├── index.html           # Main HTML file
 ├── css/
 │   └── style.css       # Main stylesheet
@@ -63,7 +63,7 @@ ghie-ye-website/
 │   └── script.js       # JavaScript functionality
 ├── images/
 │   ├── hero.jpg        # Hero section background
-│   ├── ghie-ye-logo.png # Official Logo
+│   ├── wafeo-yep-logo.png # Official Logo
 │   ├── fertilizer.jpg  # Activity image
 │   ├── pesticide.jpg   # Activity image
 │   └── seeds.jpg       # Activity image
@@ -92,16 +92,16 @@ ghie-ye-website/
 
 ## Contact Information
 
-**Youth in Engineering (GhIE-YE)**
-- **Headquarters**: Engineers Centre, Roman Ridge, Accra, Ghana
-- **LinkedIn**: [Youth in Engineering (GhIE-YE)](https://www.linkedin.com/company/yeghie)
-- **Email**: ghie-ye@ghie.org.gh
-- **Website**: [ghie.org.gh](https://ghie.org.gh)
+**WAFEO-YEP - Young Engineers Program**
+- **Headquarters**: West Africa Regional Office
+- **LinkedIn**: [WAFEO-YEP Young Engineers Program](https://www.linkedin.com/company/wafeo)
+- **Email**: yep@wafeo-official.org
+- **Website**: [wafeo-official.org](https://www.wafeo-official.org)
 
 ## License
 
-© 2026 Youth in Engineering (GhIE-YE). All rights reserved.
+© 2026 WAFEO-YEP - Young Engineers Program. All rights reserved.
 
 ---
 
-**Built with ❤️ for Youth in Engineering (GhIE-YE)**
+**Built with ❤️ for WAFEO-YEP Young Engineers Program**

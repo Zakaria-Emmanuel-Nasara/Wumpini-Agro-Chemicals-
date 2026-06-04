@@ -1,5 +1,5 @@
 // ============================================
-// WUMPINI AGRO CHEMICALS - MAIN SCRIPT
+// WAFEO-YEP - YOUNG ENGINEERS PROGRAM SCRIPT
 // ============================================
 
 // Mobile Navigation Toggle
@@ -119,4 +119,4 @@ if ('IntersectionObserver' in window) {
 }
 
 // Prevent console errors and add logging for debugging
-console.log('Wumpini Agro Chemicals website loaded successfully!');
+console.log('WAFEO-YEP Young Engineers Program website loaded successfully!');
